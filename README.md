@@ -25,6 +25,8 @@ The project covers the complete workflow from **data exploration and preprocessi
 
 ## 🌐 Live Demo
 
+Try the application here:
+
 **[Open the Smartphone Price Prediction App](https://smartphone-price-prediction-rbyfm6otg6aytwj4gxawdf.streamlit.app/)**
 
 ---
