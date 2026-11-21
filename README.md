@@ -25,9 +25,7 @@ The project covers the complete workflow from **data exploration and preprocessi
 
 ## 🌐 Live Demo
 
-> Add your Streamlit deployment link here after deploying the application.
-
-**[Open the Smartphone Price Prediction App](YOUR_STREAMLIT_APP_LINK)**
+**[Open the Smartphone Price Prediction App](https://smartphone-price-prediction-rbyfm6otg6aytwj4gxawdf.streamlit.app/)**
 
 ---
 
